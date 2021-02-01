@@ -1,1 +1,1 @@
-# Dépôt git des différents projet réaliser en C
+# Dépôt git des différents projets réaliser en C
